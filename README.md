@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+[JSGS 867 Advanced Policy Analysis](https://bit.ly/jsgs867)
 
-You can use the [editor on GitHub](https://github.com/JSGS867/JSGS867.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##An Introduction to Policy Analytics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The policy analysis movement, now past its 65th year, is built on the assumption that policy responses and interventions should be better positioned to address public problems if they are based on the best available evidence, rather than decisions based on anecdote, informal beliefs, inaccurate data, or partial data. During its history, policy analysis has usually relied on data collected at discrete intervals along the policy cycle, from problem identification through evaluation. Policy analytics, in contrast, represents the combination of new ubiquitous and continuous data sources – e.g., from Internet search and social media, to mobile smartphones, Internet of Everything (IoE) devices, web interaction logs, financial transactions and electronic payment card usage, and sensors – with new “big data” analytics techniques for informing and directing public policy. In addition to this revised method for informing decision making, policy analytics also offers the possibility of small scale experimental policy interventions that can be piloted, with their effects precisely observed in realtime using some of the same tools used for data collection. This data + analytics + experimental approach is changing the traditional practice of policy analysis. The core argument that this course advances is that policy analytics represents an adapted form of policy analysis, possibly representing an increasingly used approach. To prepare for this future, policy analysts and public sector managers need to become literate in big data sources and analytical tools. In response, this course offers a hands-on introduction to the language, techniques, and tools related to the emerging field of policy analytics, supplemented with consideration of emergent examples, potential applications, and implementation issues. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JSGS867/JSGS867.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Think of this course as a 13-week boot camp for getting started on your policy analytics journey. This course will not make you a “data analyst” in one semester. But it can make you a better policy analyst and manager in this emerging era of policy analytics - to provide you with the tools to ask intelligent questions of a policy analytic system, and to be an informed consumer of policy analytic investments and outputs. Along the way, you may find topics and approaches you want to explore in greater depth on your own, and links to resources will support that. 
